@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Owen Oseghe
 - 👀 I’m interested in asian girls
-- 🌱 I’m currently learning Java, HTML, CSS, SQL, C, JavaScript, BashScript
+- 🌱 I’m currently learning Java, HTML, CSS, SQL, C, JavaScript, BashScript, Node.js, Typescript
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me owen.oseghe@htl-wels.at
 
