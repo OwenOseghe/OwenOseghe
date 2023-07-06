@@ -1,11 +1,4 @@
-- 👋 Hi, I’m Owen Oseghe
-- 👀 I’m interested in asian girls
-- 🌱 I’m currently learning Java, HTML, CSS, SQL, C, JavaScript, BashScript, Node.js, Typescript
-- 💞️ I’m looking to collaborate on GitHub
-- 📫 How to reach me owen.oseghe@htl-wels.at
-
-<p>
-  <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
   <meta charset="UTF-8">
@@ -13,6 +6,14 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
+
+- 👋 Hi, I’m Owen Oseghe
+- 👀 I’m interested in asian girls
+- 🌱 I’m currently learning Java, HTML, CSS, SQL, C, JavaScript, BashScript, Node.js, Typescript
+- 💞️ I’m looking to collaborate on GitHub
+- 📫 How to reach me owen.oseghe@htl-wels.at
+
+<p>
   <div class="book">
     <div class="book">
   <div class="cover"></div>
